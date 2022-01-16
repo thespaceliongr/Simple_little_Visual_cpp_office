@@ -31,6 +31,6 @@ Open file on default program.
     @Author Stavros Vourliotis.
 
 
-Download use edit create Simple little Visual cpp office. I hope to enjoy !!!!!!
+Download use edit create Simple little Visual cpp office. I hope to enjoy it !!!!!!
 
 Stavros Vourliotis The Space Lion Gr Net
